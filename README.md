@@ -4,3 +4,4 @@
 - [UOS CRP 平台操作技巧](./browser-os-uniontech-crp-skills.md)
 - [统信OA加班申请填写经验](./browser-os-uniontech-oa-skills.md)
 - [Clash Verge 内网域名直连/解析失败处理经验](./codex-clash-verge-dns-uniontech.md)
+- [Linux 随机重启/唤醒失败：取证、定位与处置（含联想 BIOS 核查与 grub 参数）](./linux-suspend-hardreset-triage.md)

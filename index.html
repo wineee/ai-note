@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Note</title>
+  <link rel="stylesheet" href="vendor/vue.css">
+</head>
+<body>
+  <div id="app">加载中...</div>
+  <script>
+    window.$docsify = {
+      name: 'AI Note',
+      repo: 'wineee/ai-note',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      search: {
+        placeholder: '搜索',
+        noData: '没有找到结果',
+        depth: 4,
+        paths: 'auto'
+      }
+    };
+  </script>
+  <script src="vendor/docsify.min.js"></script>
+  <script src="vendor/search.min.js"></script>
+</body>
+</html>
